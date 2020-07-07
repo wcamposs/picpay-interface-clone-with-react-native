@@ -11,7 +11,7 @@ Considering that you already have a current version of Node.js and Npm installed
 npm install expo-cli
 ```
 
-# RUn
+# Run
 
 ```bash
 npm start
